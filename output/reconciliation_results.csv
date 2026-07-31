@@ -1,0 +1,76 @@
+claim_id,decision,approved_amount,payment_amount,payment_status,reconciliation_status,dollar_variance,recommended_action
+CLM-001,approve,218.14,0.0,,missing_payment,218.14,Submit missing payment request to payer PAY-4003 for $218.14
+CLM-002,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-003,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-004,deny,0.0,0.0,,reconciled,0.0,No action required
+CLM-005,partial,144.24,144.24,paid,reconciled,0.0,No action required
+CLM-006,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-007,deny,0.0,0.0,,reconciled,0.0,No action required
+CLM-008,approve,196.65,196.65,rejected,reconciled,0.0,No action required
+CLM-009,partial,0.0,0.0,pending,reconciled,0.0,No action required
+CLM-010,approve,2989.1,5978.2,paid/pending,duplicate_payment,-2989.1,Contact payer PAY-4002 to recover duplicate payment of $2989.10
+CLM-011,approve,3085.06,3085.06,paid,reconciled,0.0,No action required
+CLM-012,partial,170.87,170.87,paid,reconciled,0.0,No action required
+CLM-013,approve,232.48,232.48,paid,reconciled,0.0,No action required
+CLM-014,deny,0.0,277.11,paid,erroneous_payment,-277.11,Initiate clawback for denied claim; recover $277.11 from payer PAY-4003
+CLM-015,partial,1764.79,1764.79,paid,reconciled,0.0,No action required
+CLM-016,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-017,approve,109.93,95.77,paid,underpayment,14.16,Request balance of $14.16 from payer PAY-4001
+CLM-018,partial,105.11,105.11,paid,reconciled,0.0,No action required
+CLM-019,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-020,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-021,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-022,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-023,approve,1904.44,0.0,,missing_payment,1904.44,Submit missing payment request to payer PAY-4003 for $1904.44
+CLM-024,approve,215.75,186.38,paid,underpayment,29.37,Request balance of $29.37 from payer PAY-4002
+CLM-025,deny,0.0,0.0,,reconciled,0.0,No action required
+CLM-026,deny,0.0,809.59,paid,erroneous_payment,-809.59,Initiate clawback for denied claim; recover $809.59 from payer PAY-4003
+CLM-027,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-028,deny,0.0,296.21,paid,erroneous_payment,-296.21,Initiate clawback for denied claim; recover $296.21 from payer PAY-4002
+CLM-029,deny,0.0,0.0,,reconciled,0.0,No action required
+CLM-030,deny,0.0,0.0,,reconciled,0.0,No action required
+CLM-031,approve,1896.19,0.0,,missing_payment,1896.19,Submit missing payment request to payer PAY-4003 for $1896.19
+CLM-032,partial,123.39,123.39,paid,reconciled,0.0,No action required
+CLM-033,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-034,approve,2992.35,2992.35,paid,reconciled,0.0,No action required
+CLM-035,approve,238.02,238.02,paid,reconciled,0.0,No action required
+CLM-036,partial,601.34,601.34,paid,reconciled,0.0,No action required
+CLM-037,approve,269.94,269.94,paid,reconciled,0.0,No action required
+CLM-038,approve,146.08,146.08,pending,reconciled,0.0,No action required
+CLM-039,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-040,partial,0.0,0.0,paid,duplicate_payment,0.0,Contact payer PAY-4003 to recover duplicate payment of $0.00
+CLM-041,partial,0.0,0.0,paid,duplicate_payment,0.0,Contact payer PAY-4001 to recover duplicate payment of $0.00
+CLM-042,approve,214.43,0.0,,missing_payment,214.43,Submit missing payment request to payer PAY-4001 for $214.43
+CLM-043,approve,196.75,154.19,paid,underpayment,42.56,Request balance of $42.56 from payer PAY-4002
+CLM-044,deny,0.0,152.6,paid,erroneous_payment,-152.6,Initiate clawback for denied claim; recover $152.60 from payer PAY-4002
+CLM-045,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-046,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-047,approve,199.47,146.96,paid,underpayment,52.51,Request balance of $52.51 from payer PAY-4001
+CLM-048,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-049,partial,0.0,0.0,pending,reconciled,0.0,No action required
+CLM-050,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-051,partial,0.0,0.0,rejected,reconciled,0.0,No action required
+CLM-052,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-053,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-054,deny,0.0,0.0,,reconciled,0.0,No action required
+CLM-055,deny,0.0,0.0,,reconciled,0.0,No action required
+CLM-056,partial,0.0,0.0,paid,duplicate_payment,0.0,Contact payer PAY-4001 to recover duplicate payment of $0.00
+CLM-057,approve,420.31,0.0,,missing_payment,420.31,Submit missing payment request to payer PAY-4001 for $420.31
+CLM-058,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-059,partial,0.0,0.0,pending,reconciled,0.0,No action required
+CLM-060,approve,523.98,523.98,paid,reconciled,0.0,No action required
+CLM-061,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-062,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-063,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-064,approve,195.1,170.99,paid,underpayment,24.11,Request balance of $24.11 from payer PAY-4001
+CLM-065,deny,0.0,0.0,,reconciled,0.0,No action required
+CLM-066,approve,224.78,0.0,,missing_payment,224.78,Submit missing payment request to payer PAY-4003 for $224.78
+CLM-067,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-068,partial,2208.98,2208.98,paid,reconciled,0.0,No action required
+CLM-069,approve,207.99,171.7,paid,underpayment,36.29,Request balance of $36.29 from payer PAY-4003
+CLM-070,deny,0.0,0.0,,reconciled,0.0,No action required
+CLM-071,partial,0.0,0.0,paid,reconciled,0.0,No action required
+CLM-072,approve,282.06,236.45,paid,underpayment,45.61,Request balance of $45.61 from payer PAY-4003
+CLM-073,approve,177.49,137.06,paid,underpayment,40.43,Request balance of $40.43 from payer PAY-4003
+CLM-074,deny,0.0,271.55,paid,erroneous_payment,-271.55,Initiate clawback for denied claim; recover $271.55 from payer PAY-4001
+CLM-075,partial,0.0,0.0,paid,reconciled,0.0,No action required
